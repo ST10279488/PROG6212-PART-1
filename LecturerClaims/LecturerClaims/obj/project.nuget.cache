@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vG1gAOVZjgcEkGBmihCBiYPI9WvSywHUpZGSaNsE2EI/7ma4PCjXdNVV085KuTbANKvXBrJzRfUYT2ai/2xeOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\practice-ST10279488\\LecturerClaims\\LecturerClaims\\LecturerClaims.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
